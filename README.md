@@ -1,6 +1,6 @@
-# GQICOURLEncode
+# GQIOURLEncode
 
-This GQI Custom Operator will URL encode a column of type string.
+This GQI Operator will URL encode a column of type string.
 
 ## Installation
 
